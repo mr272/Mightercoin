@@ -1,0 +1,2 @@
+# Mightercoin
+alt coin
